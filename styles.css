@@ -1,0 +1,20 @@
+h1 {
+    color: black;
+    font-weight: bold;
+    background-color: #dbe7df;
+}
+
+h3 {
+    color: black;
+    font-weight: 12;
+    background-color: #cfdde6a8;
+}
+
+.illustration {
+    height: auto;
+    width: 300px;
+}
+
+.text {
+    font-family: 'Courier New', Courier, monospace;
+}
